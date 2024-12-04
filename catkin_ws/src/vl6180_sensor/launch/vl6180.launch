@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="vl6180_sensor" type="vl6180_node.py" name="vl6180_node" output="screen" />
+</launch>
