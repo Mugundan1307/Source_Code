@@ -1,0 +1,8 @@
+<launch>
+    <node
+        pkg="veml7700_sensor"
+        type="veml7700_node.py"
+        name="veml7700_node"
+        output="screen">
+    </node>
+</launch>
